@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+body{
+background-color: lightgray;
+margin:0%;
+}
+
+.post{
+    width: 50%;
+    margin:auto;
+    background-color: white;
+    border: solid 2px black;
+    margin-bottom : 50px;
+    flex-direction: column;
+}
+
+.date{
+    color: black;
+    float: right;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    font-family: Verdana;
+}
+
+
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    font-family: cursive;
+}
+
+img{
+    width:100%;
+}
+
+p{
+    padding:10px;
+}
