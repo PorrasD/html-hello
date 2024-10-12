@@ -31,13 +31,20 @@ margin:0%;
     justify-content: space-between;
     align-items: center;
     padding: 5px;
-    font-family: cursive;
+    font-family: Verdana;
 }
 
 img{
     width:100%;
 }
 
-p{
+p *{
     padding:10px;
+}
+
+i {
+    position: relative; 
+    bottom: 50px;         
+    left: 0;          
+    font-size: 15px; 
 }
